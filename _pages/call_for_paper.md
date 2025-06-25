@@ -27,4 +27,3 @@ We invite submissions on:
 - Robustness, generalization, and theoretical frameworks  
 - Interpretability, evaluation, and specialized applications  
 - Risks, safety, and fairness in open models  
-- …and more :contentReference[oaicite:0]{index=0}
