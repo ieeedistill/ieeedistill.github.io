@@ -2,29 +2,28 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Instruction Workshop # the website title (if blank, full name will be used instead)
-first_name: 
+title: "IEEE DISTILL 2025"            # 1st IEEE Workshop on Distributed, Secure, and Trustworthy Intelligence with LLMs
+first_name:
 middle_name:
 last_name:
-email: an-instructive-workshop@googlegroups.com
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
+email: "shahnewazkarim-sakib@utc.edu" # Primary contact for DISTILL 2025
+description: >                       # short site tagline
+  1st IEEE Workshop on Distributed, Secure, and Trustworthy Intelligence with LLMs (IEEE DISTILL 2025)
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>. 
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
+  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+keywords: workshop, IEEE, LLM, privacy, federated-learning, security, trustworthy-AI
 
-lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 🪄  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+lang: en
+icon: 🧠
 
-url: https://an-instructive-workshop.github.io # the base hostname & protocol for your site
-baseurl:  # the subpath of your site, e.g. /blog/
-last_updated: false # set to true if you want to display last updated in the footer
-impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
+url: "https://YOUR_USERNAME.github.io"  # replace YOUR_USERNAME
+baseurl: ""                            # leave blank if you use a user/organization site
+last_updated: false
+impressum_path:
 
 # -----------------------------------------------------------------------------
 # RSS Feed
 # -----------------------------------------------------------------------------
-# will use title and url fields
-# Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
 rss_icon: true
 
@@ -34,64 +33,55 @@ rss_icon: true
 
 navbar_fixed: true
 footer_fixed: true
-
-# Dimensions
 max_width: 1000px
-
-# TODO: add layout settings (single page vs. multi-page)
 
 # -----------------------------------------------------------------------------
 # Open Graph & Schema.org
 # -----------------------------------------------------------------------------
-# Display links to the page with a preview object on social media.
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
-serve_schema_org: false # Include Schema.org in the HTML head
-og_image: # The site-wide (default for all links) Open Graph preview image
+
+serve_og_meta: false
+serve_schema_org: false
+og_image:
 
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitHub user name
-gitlab_username: # your GitLab user name
-twitter_username: # your Twitter handle
-linkedin_username: # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
-orcid_id: # your ORCID ID
-medium_username: # your Medium username
-quora_username: # your Quora username
-publons_id: # your ID on Publons
-research_gate_profile: # your profile on ResearchGate
-blogger_url: # your blogger URL
-work_url: # work page URL
-keybase_username: # your keybase user name
-wikidata_id: # your wikidata id
-dblp_url: # your DBLP profile url
-stackoverflow_id: #your stackoverflow id
+github_username: YOUR_USERNAME        # replace YOUR_USERNAME
+gitlab_username:
+twitter_username:
+linkedin_username:
+scholar_userid:
+orcid_id:
+medium_username:
+quora_username:
+publons_id:
+research_gate_profile:
+blogger_url:
+work_url:
+keybase_username:
+wikidata_id:
+dblp_url:
+stackoverflow_id:
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  For questions about paper submissions and program details, please use the email above.
 
-google_analytics: G-XZVGGMRFQG # your google-analytics ID (format: UA-XXXXXXXXX)
-google_site_verification:  # your google-site-verification ID (Google Search Console)
-bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
-panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
+google_analytics: G-XZVGGMRFQG       # if you have one
+google_site_verification:
+bing_site_verification:
+panelbear_analytics:
 
 # -----------------------------------------------------------------------------
-# Blog
+# Blog (not used for workshop pages, but you can enable news posts)
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio  # your blog must have a name for it to show up in the nav bar
-blog_description: a simple whitespace theme for academics
-permalink: /blog/:year/:title/
-
-# Pagination
+blog_name: DISTILL News
+blog_description: Announcements and updates for IEEE DISTILL 2025
+permalink: /news/:year/:title/
 pagination:
   enabled: true
-
-# Comments
-disqus_shortname: al-folio # put your disqus shortname
-# https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+disqus_shortname:
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -99,25 +89,18 @@ disqus_shortname: al-folio # put your disqus shortname
 
 collections:
   news:
-    defaults:
-      layout: post
     output: true
     permalink: /news/:path/
-  projects:
-    output: true
-    permalink: /projects/:path/
-
 news_limit: 5
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
 # -----------------------------------------------------------------------------
 
-# Markdown and syntax highlight
 markdown: kramdown
 highlighter: rouge
-highlight_theme_light: github  # https://github.com/jwarby/jekyll-pygments-themes
-highlight_theme_dark: native  # https://github.com/jwarby/jekyll-pygments-themes
+highlight_theme_light: github
+highlight_theme_dark: native
 kramdown:
   input: GFM
   syntax_highlighter_opts:
@@ -128,7 +111,6 @@ kramdown:
       line_numbers: false
       start_line: 1
 
-# Includes & excludes
 include: ['_pages']
 exclude:
   - bin
@@ -138,9 +120,7 @@ exclude:
 keep_files:
   - CNAME
   - .nojekyll
-  - .git
 
-# Plug-ins
 plugins:
   - jekyll-archives
   - jekyll-diagrams
@@ -155,80 +135,51 @@ plugins:
   - jekyll-twitter-plugin
   - jemoji
 
-# Sitemap settings
 defaults:
   - scope:
-      path:            "assets/**/*.*"
+      path: "assets/**/*.*"
     values:
-      sitemap:         false
-# Extras
-github: [metadata]
+      sitemap: false
 
 # -----------------------------------------------------------------------------
-# Jekyll optimization
+# Optimization & extras (you can leave these as-is or tweak per your needs)
 # -----------------------------------------------------------------------------
 
-# HTML remove comments (<!-- .... -->)
 remove_HTML_comments: false
-
-# HTML beautifier (_plugins/beautify.rb) / https://github.com/threedaymonk/htmlbeautifier
-beautify: false # This function has conflict with the code snippets, they can be displayed incorrectly
-
-# HTML minify (_plugins/minify.rb) Thanks to: https://www.ffbit.com/blog/2021/03/17/html-minification-in-jekyll.html
+beautify: false
 minify: false
-
-# CSS/SASS minify
 sass:
   style: compressed
 
 # -----------------------------------------------------------------------------
-# Jekyll Archives
+# Archives, Scholar, Images, Diagrams, etc.
 # -----------------------------------------------------------------------------
-
 jekyll-archives:
-  enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them). 
+  enabled: [year, tags, categories]
   layouts:
     year: archive-year
     tag: archive-tag
     category: archive-category
   permalinks:
-    year: '/blog/:year/'
-    tag: '/blog/tag/:name/'
-    category: '/blog/category/:name/'
-
-# -----------------------------------------------------------------------------
-# Jekyll Scholar
-# -----------------------------------------------------------------------------
+    year: '/news/:year/'
+    tag: '/news/tag/:name/'
+    category: '/news/category/:name/'
 
 scholar:
-
   last_name: Einstein
   first_name: [Albert, A.]
-
   style: apa
   locale: en
-
   source: /_bibliography/
   bibliography: papers.bib
   bibliography_template: bib
-  # Note: if you have latex math in your bibtex, the latex filter
-  # preprocessing may conflict with MathJAX if the latter is enabled.
-  # See https://github.com/alshedivat/al-folio/issues/357.
   bibtex_filters: [latex, smallcaps, superscript]
-
   replace_strings: true
   join_strings: true
-
   details_dir: bibliography
   details_layout: bibtex.html
   details_link: Details
-
   query: "@*"
-
-
-# -----------------------------------------------------------------------------
-# Responsive WebP Images
-# -----------------------------------------------------------------------------
 
 imagemagick:
   enabled: true
@@ -246,37 +197,26 @@ imagemagick:
   output_formats:
     webp: "-quality 75%"
 
-# -----------------------------------------------------------------------------
-# Jekyll Diagrams
-# -----------------------------------------------------------------------------
-
-jekyll-diagrams:
-    # configuration, see https://github.com/zhustec/jekyll-diagrams.
-    # feel free to comment out this section if not using jekyll diagrams.
-
+jekyll-diagrams: {}
 
 # -----------------------------------------------------------------------------
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics:    true  # enables google analytics
-enable_panelbear_analytics: false  # enables panelbear analytics
-enable_google_verification: false  # enables google site verification
-enable_bing_verification:   false  # enables bing site verification
-enable_masonry:             true   # enables automatic project cards arangement
-enable_math:                true   # enables math typesetting (uses MathJax)
-enable_tooltips:            false  # enables automatic tooltip links generated
-                                   # for each section titles on pages and posts
-enable_darkmode:            false   # enables switching between light/dark modes
-enable_navbar_social:       false  # enables displaying social links in the
-                                   # navbar on the about page
-enable_project_categories:  true   # enables categorization of projects into
-                                   # multiple categories
-enable_medium_zoom:         true   # enables image zoom feature (as on medium.com)
-
+enable_google_analytics:    true
+enable_panelbear_analytics: false
+enable_google_verification: false
+enable_bing_verification:   false
+enable_masonry:             true
+enable_math:                true
+enable_tooltips:            false
+enable_darkmode:            false
+enable_navbar_social:       false
+enable_project_categories:  false
+enable_medium_zoom:         true
 
 # -----------------------------------------------------------------------------
-# Library versions
+# Library versions (usually you can leave these as-is)
 # -----------------------------------------------------------------------------
 
 academicons:
