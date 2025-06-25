@@ -1,3 +1,4 @@
+<!-- home.md -->
 ---
 layout: default
 title: "<h3 align=\"center\">IEEE DISTILL 2025</h3>"
@@ -19,4 +20,4 @@ nav_order: 1
 </html>
 
 <br>
-Welcome to the 1st IEEE Workshop on Distributed, Secure, and Trustworthy Intelligence with LLMs (IEEE DISTILL 2025). This half-day event brings together researchers on secure, privacy-preserving, and robust LLM systems. :contentReference[oaicite:1]{index=1}
+Welcome to the 1st IEEE Workshop on Distributed, Secure, and Trustworthy Intelligence with LLMs (IEEE DISTILL 2025). This half-day event brings together researchers on secure, privacy-preserving, and robust LLM systems. 
