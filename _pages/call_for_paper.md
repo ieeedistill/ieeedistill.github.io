@@ -2,7 +2,7 @@
 ---
 layout: page
 title: "Call for Papers"
-permalink: /call/
+permalink: /call-for-papers/
 nav: true
 nav_order: 3
 ---
