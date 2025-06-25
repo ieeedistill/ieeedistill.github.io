@@ -1,4 +1,3 @@
-<!-- call_for_paper.md -->
 ---
 layout: page
 title: "Call for Papers"
@@ -6,22 +5,21 @@ permalink: /call-for-papers/
 nav: true
 nav_order: 3
 ---
-# Call for Papers  
-<br>
 
-### Important Dates
+# Call for Papers
 
-:loudspeaker: **Submission Begins:** June 1, 2025  
-**Submission Deadline:** August 1, 2025 (AoE)  
-**Notification:** August 28, 2025  
-**Camera-ready:** September 10, 2025  
-**Workshop:** November 14, 2025
+## Important Dates
 
-<br>
+- **Submission Begins:** June 1, 2025  
+- **Submission Deadline:** August 1, 2025 (AoE)  
+- **Notification of Acceptance:** August 28, 2025  
+- **Camera-Ready Due:** September 10, 2025  
+- **Workshop Date:** November 14, 2025
 
-### Topics of Interest
+## Topics of Interest
 
-We invite submissions on:  
+We invite submissions on:
+
 - Privacy-preserving techniques for LLMs in distributed environments  
 - Federated learning with LLMs: challenges and solutions  
 - Differential privacy in decentralized LLM applications  
@@ -29,4 +27,4 @@ We invite submissions on:
 - Robustness, generalization, and theoretical frameworks  
 - Interpretability, evaluation, and specialized applications  
 - Risks, safety, and fairness in open models  
-- …and more :contentReference[oaicite:2]{index=2}
+- …and more :contentReference[oaicite:0]{index=0}
