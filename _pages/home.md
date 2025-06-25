@@ -7,10 +7,22 @@ nav_order: 1
 ---
 
 <p align="center">
-  <img src="{{ '/assets/img/distill-logo.png' | relative_url }}"
-       alt="IEEE DISTILL 2025 Logo"
-       style="max-width:200px; display:block; margin:auto;" />
+  <img
+    src="{{ '/assets/img/distill-logo.png' | relative_url }}"
+    alt="IEEE DISTILL 2025 Logo"
+    style="max-width:200px; display:block; margin:auto;"
+  />
 </p>
+
+## IEEE DISTILL 2025 Workshop on Distributed, Secure, and Trustworthy Intelligence with LLMs
+
+**Date:** November 14, 2025  
+**Location:** TBD  
+
+**Quick Links:**  
+[Call for Papers]({{ '/call-for-papers/' | relative_url }}) |  
+[Organization]({{ '/organization/' | relative_url }}) |  
+[Tentative Schedule]({{ '/schedule/' | relative_url }})
 
 <div class="news-box">
   <h4>Announcements</h4>
@@ -22,5 +34,68 @@ nav_order: 1
   </ul>
 </div>
 
-Welcome to the 1st IEEE Workshop on Distributed, Secure, and Trustworthy Intelligence with LLMs (IEEE DISTILL 2025).  
-This half-day event brings together researchers on secure, privacy-preserving, and robust LLM systems.
+---
+
+### Organization Preview
+
+<div class="team-container" style="justify-content:center; gap:2rem; margin-bottom:2rem;">
+  <!-- General Chair -->
+  <div class="team-member">
+    <img
+      src="{{ '/assets/img/brinton.jpg' | relative_url }}"
+      alt="Dr. Christopher G. Brinton"
+      style="width:100px; height:100px; object-fit:cover; border-radius:50%;"
+    />
+    <p><strong>Dr. Christopher G. Brinton</strong><br><em>General Chair</em></p>
+  </div>
+  <!-- TPC Chair -->
+  <div class="team-member">
+    <img
+      src="{{ '/assets/img/shahnewaz.jpg' | relative_url }}"
+      alt="Dr. Shahnewaz Karim Sakib"
+      style="width:100px; height:100px; object-fit:cover; border-radius:50%;"
+    />
+    <p><strong>Dr. Shahnewaz K. Sakib</strong><br><em>TPC Chair</em></p>
+  </div>
+  <!-- TPC Chair -->
+  <div class="team-member">
+    <img
+      src="{{ '/assets/img/anindya.jpg' | relative_url }}"
+      alt="Dr. Anindya Bijoy Das"
+      style="width:100px; height:100px; object-fit:cover; border-radius:50%;"
+    />
+    <p><strong>Dr. Anindya B. Das</strong><br><em>TPC Chair</em></p>
+  </div>
+  <!-- TPC Chair -->
+  <div class="team-member">
+    <img
+      src="{{ '/assets/img/shibbir.jpg' | relative_url }}"
+      alt="Dr. Shibbir Ahmed"
+      style="width:100px; height:100px; object-fit:cover; border-radius:50%;"
+    />
+    <p><strong>Dr. Shibbir Ahmed</strong><br><em>TPC Chair</em></p>
+  </div>
+</div>
+
+---
+
+### Call for Papers
+
+Submission opens **June 1, 2025**; deadline **August 1, 2025** (AoE).  
+Learn more on the [Call for Papers page]({{ '/call-for-papers/' | relative_url }}).
+
+---
+
+### Tentative Workshop Schedule
+
+| Time                   | Session                                                         |
+|------------------------|-----------------------------------------------------------------|
+| 08:45 AM – 09:00 AM    | Welcome and Opening Remarks                                     |
+| 09:00 AM – 10:00 AM    | Paper Presentations – Session 1 (3 papers × 15 min talk + 5 min Q&A) |
+| 10:00 AM – 10:45 AM    | Keynote Talk                                                    |
+| 10:45 AM – 11:00 AM    | Coffee Break & Networking                                       |
+| 11:00 AM – 12:00 PM    | Paper Presentations – Session 2 (3 papers × 15 min talk + 5 min Q&A) |
+| 12:00 PM – 01:00 PM    | Poster Session & Open Discussions                               |
+| 01:00 PM               | Closing Remarks and Adjournment                                 |
+
+Full schedule on the [Tentative Workshop Schedule page]({{ '/schedule/' | relative_url }}).
