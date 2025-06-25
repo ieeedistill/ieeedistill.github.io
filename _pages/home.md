@@ -1,4 +1,3 @@
-<!-- home.md -->
 ---
 layout: default
 title: "<h3 align=\"center\">IEEE DISTILL 2025</h3>"
