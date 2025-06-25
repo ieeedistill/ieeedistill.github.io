@@ -1,28 +1,21 @@
-<!-- schedule.md -->
 ---
 layout: page
-title: "Schedule"
+title: "Tentative Workshop Schedule"
 permalink: /schedule/
 nav: true
 nav_order: 6
 ---
-# Schedule  
-<br>
 
-| Time       | Session                                                                 |
-|------------|-------------------------------------------------------------------------|
-| **08:40**  | Opening Remarks                                                         |
-| **09:00**  | Invited Talk 1 – Tatsunori Hashimoto                                     |
-| **09:30**  | Invited Talk 2 – Nazneen Rajani                                         |
-| **10:00**  | Break                                                                   |
-| **10:15**  | Invited Talk 3 – Fei Xia                                                |
-| **10:45**  | **Panel 1:** Key Techniques, Insights, and Challenges in Building LLMs  |
-|            | *Alex Tamkin, Albert Webson, Fei Xia, Prithviraj Ammanabrolu, Hyung Won Chung* |
-| **13:00**  | Poster Session                                                         |
-| **14:00**  | Invited Talk 4 – Sara Hooker                                            |
-| **14:30**  | Invited Talk 5 – Alex Tamkin                                            |
-| **15:00**  | Break                                                                   |
-| **15:15**  | **Panel 2:** Open & Collaborative Strategies for LLM Adaptation         |
-|            | *Nazneen Rajani, Colin Raffel, Hao Zhang, Tatsunori Hashimoto*          |
-| **16:00**  | Oral Presentations (8 × 10 min each)                                     |
-| **17:20**  | Closing Remarks                                                          | :contentReference[oaicite:5]{index=5}
+# Tentative Workshop Schedule
+
+**Date:** November 14, 2025
+
+| Time                      | Session                                                                             |
+|---------------------------|-------------------------------------------------------------------------------------|
+| 08:45 AM – 09:00 AM       | Welcome and Opening Remarks                                                         |
+| 09:00 AM – 10:00 AM       | Paper Presentations – Session 1<br>(3 papers × 15 min talk + 5 min Q&A each)        |
+| 10:00 AM – 10:45 AM       | Keynote Talk                                                                        |
+| 10:45 AM – 11:00 AM       | Coffee Break & Informal Networking                                                  |
+| 11:00 AM – 12:00 PM       | Paper Presentations – Session 2<br>(3 papers × 15 min talk + 5 min Q&A each)        |
+| 12:00 PM – 01:00 PM       | Poster Session & Open Discussions<br>(All remaining accepted posters presented)     |
+| 01:00 PM                  | Closing Remarks and Adjournment                                                     |
