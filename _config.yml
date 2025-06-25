@@ -16,8 +16,8 @@ keywords: workshop, IEEE, LLM, privacy, federated-learning, security, trustworth
 lang: en
 icon: 🧠
 
-url: "https://ieeedistilll.github.io/IEEEDISTILL.github.io/"  
-baseurl: ""                            # leave blank if you use a user/organization site
+url: "https://ieeedistilll.github.io/"  
+baseurl: "/IEEEDISTILL.github.io"                           
 last_updated: false
 impressum_path:
 
