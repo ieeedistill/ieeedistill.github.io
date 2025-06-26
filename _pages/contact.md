@@ -2,6 +2,8 @@
 title: “Contact & Logistics”
 layout: default
 permalink: /contact/
+nav: true
+nav_order: 6
 ---
 # Contact
 
