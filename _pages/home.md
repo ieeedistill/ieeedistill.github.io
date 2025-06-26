@@ -13,7 +13,7 @@ nav_order: 1
     style="width:120px; height:auto;"
   />
   <h1 style="margin:0; font-size:2.5rem; line-height:1.2;">
-    IEEE DISTILL 2025 Workshop on Distributed, Secure,
+    IEEE DISTILL 2025: Workshop on Distributed, Secure,
     and Trustworthy Intelligence with LLMs
   </h1>
 </div>
@@ -113,15 +113,5 @@ Learn more on the [Call for Papers page]({{ '/call-for-papers/' | relative_url }
 ---
 
 ### Tentative Workshop Schedule
-
-| Time                   | Session                                                         |
-|------------------------|-----------------------------------------------------------------|
-| 08:45 AM – 09:00 AM    | Welcome and Opening Remarks                                     |
-| 09:00 AM – 10:00 AM    | Paper Presentations – Session 1                                 |
-| 10:00 AM – 10:45 AM    | Keynote Talk                                                    |
-| 10:45 AM – 11:00 AM    | Coffee Break & Networking                                       |
-| 11:00 AM – 12:00 PM    | Paper Presentations – Session 2                                 |
-| 12:00 PM – 12:50 PM    | Poster Session & Open Discussions                               |
-| 12:50 PM – 01:00 PM    | Closing Remarks and Adjournment                                 |
 
 Full schedule on the [Tentative Workshop Schedule page]({{ '/schedule/' | relative_url }}).
