@@ -8,5 +8,13 @@ nav_title: Contact
 ---
 # Contact
 
-If you have questions, please reach out to: **Dr. Anindya Bijoy Das**, Email: adas@uakron.edu.
+If you have questions, please reach out to any of the following contacts:
 
+- **Dr. Anindya Bijoy Das**  
+  Email: adas@uakron.edu
+
+- **Dr. Shahnewaz Karim Sakib**  
+  Email: shahnewazkarim-sakib@utc.edu
+
+- **Dr. Shibbir Ahmed**  
+  Email: shibbir@txstate.edu
