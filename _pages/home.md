@@ -13,7 +13,7 @@ nav_order: 1
     style="width:120px; height:auto;"
   />
   <h1 style="margin:0; font-size:2.5rem; line-height:1.2;">
-    IEEE DISTILL 2025 Workshop on Distributed, Secure,<br>
+    IEEE DISTILL 2025 Workshop on Distributed, Secure,
     and Trustworthy Intelligence with LLMs
   </h1>
 </div>
