@@ -4,7 +4,7 @@ layout: default
 permalink: /contact/
 nav: true
 nav_order: 7
-nav_title: "Contact"
+nav_title: Contact
 ---
 # Contact
 
