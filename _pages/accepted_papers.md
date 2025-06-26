@@ -13,7 +13,6 @@ nav_order: 4
 
 # Accepted Papers: TBD
 
-Thank you to everyone who submitted!  
-We’re currently reviewing all submissions and will announce the accepted papers here shortly.
+We’ll revier the submissions and will announce the accepted papers here.
 
 <small>Stay tuned for updates after **August 28, 2025**.</small>
