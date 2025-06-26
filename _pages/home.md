@@ -50,42 +50,43 @@ nav_order: 1
 All accepted papers will be submitted for inclusion in the **IEEE Xplore conference proceedings**.  
 Authors may choose to submit either **full-length (long up to 8 pages)** or short papers (long up to 4 pages).
 
----
-
 ### Organization Preview
 
-<div class="team-container" style="justify-content:center; gap:2rem; margin-bottom:2rem;">
-  <div class="team-member">
-    <img
-      src="{{ '/assets/img/brinton.jpg' | relative_url }}"
-      alt="Dr. Christopher G. Brinton"
-      style="width:100px; height:100px; object-fit:cover; border-radius:50%;"
-    />
-    <p><strong>Dr. Christopher G. Brinton</strong><br><em>General Chair</em></p>
-  </div>
-  <div class="team-member">
+<p align="center">
+  <img
+    src="{{ '/assets/img/brinton.jpg' | relative_url }}"
+    alt="Dr. Christopher G. Brinton"
+    style="width:100px; height:100px; object-fit:cover; border-radius:50%;"
+  /><br>
+  <strong>Dr. Christopher G. Brinton</strong><br><em>General Chair</em>
+</p>
+
+### Technical Program Committee Chairs
+
+<div style="display:flex; justify-content:center; align-items:center; gap:2rem; flex-wrap:wrap; margin-bottom:2rem;">
+  <div style="text-align:center;">
     <img
       src="{{ '/assets/img/shahnewaz.jpg' | relative_url }}"
       alt="Dr. Shahnewaz Karim Sakib"
       style="width:100px; height:100px; object-fit:cover; border-radius:50%;"
-    />
-    <p><strong>Dr. Shahnewaz Karim Sakib</strong><br><em>TPC Co-Chair</em></p>
+    /><br>
+    <strong>Dr. Shahnewaz Karim Sakib</strong><br><em>TPC Chair</em>
   </div>
-  <div class="team-member">
+  <div style="text-align:center;">
     <img
-      src="{{ '/assets/img/anindya2.png' | relative_url }}"
+      src="{{ '/assets/img/anindya.jpg' | relative_url }}"
       alt="Dr. Anindya Bijoy Das"
       style="width:100px; height:100px; object-fit:cover; border-radius:50%;"
-    />
-    <p><strong>Dr. Anindya Bijoy Das</strong><br><em>TPC Co-Chair</em></p>
+    /><br>
+    <strong>Dr. Anindya Bijoy Das</strong><br><em>TPC Chair</em>
   </div>
-  <div class="team-member">
+  <div style="text-align:center;">
     <img
-      src="{{ '/assets/img/shibbirahmed.jpg' | relative_url }}"
+      src="{{ '/assets/img/shibbir.jpg' | relative_url }}"
       alt="Dr. Shibbir Ahmed"
       style="width:100px; height:100px; object-fit:cover; border-radius:50%;"
-    />
-    <p><strong>Dr. Shibbir Ahmed</strong><br><em>TPC Co-Chair</em></p>
+    /><br>
+    <strong>Dr. Shibbir Ahmed</strong><br><em>TPC Chair</em>
   </div>
 </div>
 
