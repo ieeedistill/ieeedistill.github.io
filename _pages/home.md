@@ -87,7 +87,7 @@ Authors may choose to submit either **full-length (long up to 8 pages)** or shor
   </div>
   <div style="text-align:center;">
     <img
-      src="{{ '/assets/img/anindya2.png' | relative_url }}"
+      src="{{ '/assets/img/anindya3.png' | relative_url }}"
       alt="Dr. Anindya Bijoy Das"
       style="width:100px; height:100px; object-fit:cover; border-radius:50%;"
     /><br>
@@ -107,7 +107,7 @@ Authors may choose to submit either **full-length (long up to 8 pages)** or shor
 
 ### Call for Papers
 
-Submission opens **June 1, 2025**; deadline **August 1, 2025** (AoE).  
+Submission deadline **August 1, 2025** (AoE).  
 Learn more on the [Call for Papers page]({{ '/call-for-papers/' | relative_url }}).
 
 ---
@@ -117,11 +117,11 @@ Learn more on the [Call for Papers page]({{ '/call-for-papers/' | relative_url }
 | Time                   | Session                                                         |
 |------------------------|-----------------------------------------------------------------|
 | 08:45 AM – 09:00 AM    | Welcome and Opening Remarks                                     |
-| 09:00 AM – 10:00 AM    | Paper Presentations – Session 1 (3 papers × 15 min talk + 5 min Q&A) |
+| 09:00 AM – 10:00 AM    | Paper Presentations – Session 1                                 |
 | 10:00 AM – 10:45 AM    | Keynote Talk                                                    |
 | 10:45 AM – 11:00 AM    | Coffee Break & Networking                                       |
-| 11:00 AM – 12:00 PM    | Paper Presentations – Session 2 (3 papers × 15 min talk + 5 min Q&A) |
-| 12:00 PM – 01:00 PM    | Poster Session & Open Discussions                               |
-| 01:00 PM               | Closing Remarks and Adjournment                                 |
+| 11:00 AM – 12:00 PM    | Paper Presentations – Session 2                                 |
+| 12:00 PM – 12:50 PM    | Poster Session & Open Discussions                               |
+| 12:50 PM – 01:00 PM    | Closing Remarks and Adjournment                                 |
 
 Full schedule on the [Tentative Workshop Schedule page]({{ '/schedule/' | relative_url }}).
