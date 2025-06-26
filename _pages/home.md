@@ -70,23 +70,23 @@ Authors may choose to submit either **full-length (long up to 8 pages)** or shor
       alt="Dr. Shahnewaz Karim Sakib"
       style="width:100px; height:100px; object-fit:cover; border-radius:50%;"
     /><br>
-    <strong>Dr. Shahnewaz Karim Sakib</strong><br><em>TPC Chair</em>
+    <strong>Dr. Shahnewaz Karim Sakib</strong><br><em>TPC Co-Chair</em>
   </div>
   <div style="text-align:center;">
     <img
-      src="{{ '/assets/img/anindya.jpg' | relative_url }}"
+      src="{{ '/assets/img/anindya2.png' | relative_url }}"
       alt="Dr. Anindya Bijoy Das"
       style="width:100px; height:100px; object-fit:cover; border-radius:50%;"
     /><br>
-    <strong>Dr. Anindya Bijoy Das</strong><br><em>TPC Chair</em>
+    <strong>Dr. Anindya Bijoy Das</strong><br><em>TPC Co-Chair</em>
   </div>
   <div style="text-align:center;">
     <img
-      src="{{ '/assets/img/shibbir.jpg' | relative_url }}"
+      src="{{ '/assets/img/shibbirahmed.jpg' | relative_url }}"
       alt="Dr. Shibbir Ahmed"
       style="width:100px; height:100px; object-fit:cover; border-radius:50%;"
     /><br>
-    <strong>Dr. Shibbir Ahmed</strong><br><em>TPC Chair</em>
+    <strong>Dr. Shibbir Ahmed</strong><br><em>TPC Co-Chair</em>
   </div>
 </div>
 
