@@ -4,6 +4,7 @@ title: "Accepted Papers"
 permalink: /accepted/
 nav: true
 nav_order: 4
+nav_title: "Papers"
 ---
 
 <!-- Workshop logo (put your logo at assets/img/distill-logo.png) -->
