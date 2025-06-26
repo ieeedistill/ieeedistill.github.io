@@ -74,7 +74,6 @@ Authors may choose to submit either **full-length (long up to 8 pages)** or shor
   <strong>Dr. Christopher G. Brinton</strong><br><em>General Chair</em>
 </p>
 
-### Technical Program Committee Chairs
 
 <div style="display:flex; justify-content:center; align-items:center; gap:2rem; flex-wrap:wrap; margin-bottom:2rem;">
   <div style="text-align:center;">
