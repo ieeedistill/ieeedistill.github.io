@@ -2,7 +2,6 @@
 layout: default
 title: "IEEE DISTILL 2025"
 permalink: /
-nav: true
 nav_order: 1
 ---
 
