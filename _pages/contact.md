@@ -8,8 +8,5 @@ nav_title: Contact
 ---
 # Contact
 
-If you have questions, please reach out to:
-
-- **Dr. Anindya Bijoy Das** 
- adas@uakron.edu 
+If you have questions, please reach out to: **Dr. Anindya Bijoy Das**, Email: adas@uakron.edu.
 
