@@ -67,7 +67,7 @@ Co-located with [IEEE CIC 2025](https://www.sis.pitt.edu/lersais/conference/cic/
   <!-- TPC Chair -->
   <div class="team-member">
     <img
-      src="{{ '/assets/img/anindya.jpg' | relative_url }}"
+      src="{{ '/assets/img/anindya2.png' | relative_url }}"
       alt="Dr. Anindya Bijoy Das"
       style="width:100px; height:100px; object-fit:cover; border-radius:50%;"
     />
