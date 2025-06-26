@@ -4,6 +4,7 @@ title: "Call for Papers"
 permalink: /call-for-papers/
 nav: true
 nav_order: 3
+nav_title: "CFP"
 ---
 
 # Call for Papers
