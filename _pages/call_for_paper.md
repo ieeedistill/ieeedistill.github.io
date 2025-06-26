@@ -32,14 +32,14 @@ Topics of interest include, but are not limited to:
 
 
 ## Submission
-Workshop papers should follow the same submission guidelines and instructions for the main conference: [IEEE TPS 2025](https://www.sis.pitt.edu/lersais/conference/tps/2025/). The long paper should not exceed 8 pages, including references. Standard IEEE conference paper format should be used. The IEEE two-column conference template can be downloaded from [here](https://www.ieee.org/conferences/publishing/templates).
+Workshop papers should follow the same submission guidelines and instructions for the main conference: [**IEEE TPS 2025**](https://www.sis.pitt.edu/lersais/conference/tps/2025/). The long paper should not exceed 8 pages, including references. Standard IEEE conference paper format should be used. The IEEE two-column conference template can be downloaded from [**here**](https://www.ieee.org/conferences/publishing/templates).
 
-Submit your paper through [EasyChair](https://easychair.org/account2/signin?l=7661155834746278132) and select the "IEEE DISTILL 2025" Track.
+Submit your paper through [**EasyChair**](https://easychair.org/account2/signin?l=7661155834746278132) and select the "IEEE DISTILL 2025" Track.
 
 ## Proceedings & Paper Types
 
 All accepted papers will be submitted for inclusion in the **IEEE Xplore conference proceedings**.  
-Authors may choose to submit either **full-length (up to 8 pages)** or **short papers (up to 4 pages)**.
+Authors may choose to submit either **full-length (up to 10 pages)** or **short papers (up to 5 pages)**.
 
 For questions, please contact the workshop organizers.
 
