@@ -23,8 +23,8 @@ The 7th IEEE International Conference on Trust, Privacy and Security in Intellig
 Nov. 11-14, 2025, Pittsburgh, PA, USA
 Co-located with [IEEE CIC 2025](https://www.sis.pitt.edu/lersais/conference/cic/2025/) and [IEEE CogMI 2025](https://www.sis.pitt.edu/lersais/conference/cogmi/2025/).
 
-**Date:** November 14, 2025  
-**Location:** TBD  
+**Workshop Date:** November 14, 2025  
+**Workshop Location:** Pittsburgh, PA, USA 
 
 **Quick Links:**  
 [Call for Papers]({{ '/call-for-papers/' | relative_url }}) |  
@@ -92,17 +92,5 @@ Submission opens **June 1, 2025**; deadline **August 1, 2025** (AoE).
 Learn more on the [Call for Papers page]({{ '/call-for-papers/' | relative_url }}).
 
 ---
-
-### Tentative Workshop Schedule
-
-| Time                   | Session                                                         |
-|------------------------|-----------------------------------------------------------------|
-| 08:45 AM – 09:00 AM    | Welcome and Opening Remarks                                     |
-| 09:00 AM – 10:00 AM    | Paper Presentations – Session 1 (3 papers × 15 min talk + 5 min Q&A) |
-| 10:00 AM – 10:45 AM    | Keynote Talk                                                    |
-| 10:45 AM – 11:00 AM    | Coffee Break & Networking                                       |
-| 11:00 AM – 12:00 PM    | Paper Presentations – Session 2 (3 papers × 15 min talk + 5 min Q&A) |
-| 12:00 PM – 01:00 PM    | Poster Session & Open Discussions                               |
-| 01:00 PM               | Closing Remarks and Adjournment                                 |
 
 Full schedule on the [Tentative Workshop Schedule page]({{ '/schedule/' | relative_url }}).
