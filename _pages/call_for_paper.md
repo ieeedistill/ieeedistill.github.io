@@ -29,6 +29,14 @@ Topics of interest include, but are not limited to:
 - Benchmarking privacy, security, and trust in LLM-powered applications
 - Case studies and real-world implementations of secure distributed LLMs
 
+
+## Submission
+Workshop papers should follow the same submission guidelines and instructions for the main conference: [IEEE TPS 2025](https://www.sis.pitt.edu/lersais/conference/tps/2025/). The paper should not exceed 10 pages, including references. Standard IEEE conference paper format should be used. The IEEE two-column conference template can be downloaded from [here](https://www.ieee.org/conferences/publishing/templates).
+
+Submit your paper through [EasyChair](https://easychair.org/account2/signin?l=7661155834746278132) and select the "IEEE DISTILL 2025" Track.
+
+For questions, please contact the workshop organizers.
+
 ## Important Dates
 
 - **Submission Begins:** June 25, 2025  
