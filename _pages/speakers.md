@@ -36,32 +36,6 @@ nav_order: 2
     </p>
   </div>
 
-  <!-- Placeholder Speaker 3 -->
-  <div class="team-member" style="text-align:center;">
-    <img
-      src="{{ '/assets/img/speakers/speaker.png' | relative_url }}"
-      alt="TBD"
-      style="width:80px; height:80px; object-fit:cover; border-radius:50%;"
-    />
-    <p>
-      <strong>TBD</strong><br>
-      <em>TBD</em>
-    </p>
-  </div>
-
-  <!-- Placeholder Speaker 4 -->
-  <div class="team-member" style="text-align:center;">
-    <img
-      src="{{ '/assets/img/speakers/speaker.png' | relative_url }}"
-      alt="TBD"
-      style="width:80px; height:80px; object-fit:cover; border-radius:50%;"
-    />
-    <p>
-      <strong>TBD</strong><br>
-      <em>TBD</em>
-    </p>
-  </div>
-
   <!-- Placeholder Speaker 5 -->
   <div class="team-member" style="text-align:center;">
     <img
