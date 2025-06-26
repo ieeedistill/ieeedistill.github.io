@@ -4,6 +4,7 @@ title: "Tentative Workshop Schedule"
 permalink: /schedule/
 nav: true
 nav_order: 6
+nav_title: "Schedule"
 ---
 
 # Tentative Workshop Schedule
