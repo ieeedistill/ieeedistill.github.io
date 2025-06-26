@@ -7,14 +7,10 @@ nav_order: 3
 ---
 
 # Call for Papers
+This workshop focuses on advancing secure, private, and trustworthy large language models (LLMs) for real-world applications. As LLMs become embedded in everyday tools and decision-making pipelines across domains such as healthcare, education, and autonomous systems, it is critical to ensure they operate with high reliability, transparency, and respect for user privacy. The increasing scale and scope of LLM usage raises urgent questions about model robustness, safety under adversarial conditions, and the integrity of generated outputs in dynamic environments.
 
-## Important Dates
+We aim to bring together researchers and practitioners working on the foundations and applications of trustworthy LLMs. Topics of interest include privacy-preserving techniques, watermarking and integrity verification, explainability in model decision-making, robustness under distribution shift, and evaluation frameworks for safety and trust. We also encourage submissions that explore scalable inference on edge and IoT devices, secure aggregation and compression, and real-world case studies of LLM deployment. This workshop will serve as a platform to share new insights, tools, and best practices for building LLMs that are not only powerful, but also safe, transparent, and accountable.
 
-- **Submission Begins:** July 1, 2025  
-- **Submission Deadline:** August 1, 2025  
-- **Notification of Acceptance:** August 28, 2025  
-- **Camera-Ready Due:** September 10, 2025  
-- **Workshop Date:** November 14, 2025
 
 ## Topics
 
@@ -32,3 +28,11 @@ Topics of interest include, but are not limited to:
 - Secure aggregation and compression of LLM outputs
 - Benchmarking privacy, security, and trust in LLM-powered applications
 - Case studies and real-world implementations of secure distributed LLMs
+
+## Important Dates
+
+- **Submission Begins:** June 25, 2025  
+- **Submission Deadline:** August 1, 2025  
+- **Notification of Acceptance:** August 28, 2025  
+- **Camera-Ready Due:** September 10, 2025  
+- **Workshop Date:** November 14, 2025
