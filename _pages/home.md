@@ -88,7 +88,7 @@ Co-located with [IEEE CIC 2025](https://www.sis.pitt.edu/lersais/conference/cic/
 
 ### Call for Papers
 
-Submission opens **June 1, 2025**; deadline **August 1, 2025** (AoE).  
+Submission deadline **August 1, 2025**.  
 Learn more on the [Call for Papers page]({{ '/call-for-papers/' | relative_url }}).
 
 ---
