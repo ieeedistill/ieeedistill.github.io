@@ -14,7 +14,7 @@ nav_order: 1
   />
 </p>
 
-## IEEE DISTILL 2025 Workshop on Distributed, Secure, and Trustworthy Intelligence with LLMs
+## IEEE Workshop on Distributed, Secure, and Trustworthy Intelligence with LLMs (IEEE DISTILL 2025)
 
 Welcome to the 1st IEEE Workshop on Distributed, Secure, and Trustworthy Intelligence with LLMs (IEEE DISTILL 2025).
 This half-day event brings together researchers on secure, privacy-preserving, and robust LLM systems. [IEEE DISTILL 2025](https://ieeedistill.github.io/) is co-located with 
@@ -26,10 +26,10 @@ Co-located with [IEEE CIC 2025](https://www.sis.pitt.edu/lersais/conference/cic/
 **Workshop Date:** November 14, 2025  
 **Workshop Location:** Pittsburgh, PA, USA 
 
-**Quick Links:**  
-[Call for Papers]({{ '/call-for-papers/' | relative_url }}) |  
-[Organization]({{ '/organization/' | relative_url }}) |  
-[Tentative Schedule]({{ '/schedule/' | relative_url }})
+<!--**Quick Links:**  -->
+<!--[Call for Papers]({{ '/call-for-papers/' | relative_url }}) |-->  
+<!--[Organization]({{ '/organization/' | relative_url }}) |  -->
+<!--[Tentative Schedule]({{ '/schedule/' | relative_url }})-->
 
 <div class="news-box">
   <h4>Announcements</h4>
