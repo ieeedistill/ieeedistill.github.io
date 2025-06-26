@@ -30,7 +30,9 @@ nav_order: 5
 
 ## Technical Program Committee Chairs
 
-<div class="team-container">
+<div class="team-container"
+     style="display:flex; justify-content:center; align-items:flex-start; gap:2rem; flex-wrap:wrap;">
+
   <div class="team-member">
     <img
       src="{{ '/assets/img/shahnewaz.jpg' | relative_url }}"
@@ -44,6 +46,7 @@ nav_order: 5
       <a href="mailto:shahnewazkarim-sakib@utc.edu">shahnewazkarim-sakib@utc.edu</a>
     </p>
   </div>
+
   <div class="team-member">
     <img
       src="{{ '/assets/img/anindya2.png' | relative_url }}"
@@ -57,6 +60,7 @@ nav_order: 5
       <a href="mailto:adas@uakron.edu">adas@uakron.edu</a>
     </p>
   </div>
+
   <div class="team-member">
     <img
       src="{{ '/assets/img/shibbirahmed.jpg' | relative_url }}"
@@ -70,6 +74,7 @@ nav_order: 5
       <a href="mailto:shibbir@txstate.edu">shibbir@txstate.edu</a>
     </p>
   </div>
+
 </div>
 
 ---
