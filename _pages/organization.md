@@ -79,7 +79,7 @@ nav_order: 5
 
 ---
 
-## Tentative Technical Program Committee Members
+## Technical Program Committee Members
 
 <ul>
   <li>Dr. Sumon Biswas, Assistant Professor, Case Western Reserve University, USA</li>
