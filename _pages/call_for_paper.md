@@ -38,8 +38,7 @@ Submit your paper through [EasyChair](https://easychair.org/account2/signin?l=76
 For questions, please contact the workshop organizers.
 
 ## Important Dates
-
-- **Submission Begins:** June 25, 2025  
+ 
 - **Submission Deadline:** August 1, 2025  
 - **Notification of Acceptance:** August 28, 2025  
 - **Camera-Ready Due:** September 10, 2025  
