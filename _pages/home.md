@@ -5,24 +5,38 @@ permalink: /
 nav_order: 1
 ---
 
+<!-- Logo & Title side by side -->
+<div style="display:flex; align-items:center; justify-content:center; gap:1.5rem; margin:2rem 0;">
+  <img
+    src="{{ '/assets/img/distill-logo.png' | relative_url }}"
+    alt="IEEE DISTILL 2025 Logo"
+    style="width:120px; height:auto;"
+  />
+  <h1 style="margin:0; font-size:2.5rem; line-height:1.2;">
+    IEEE DISTILL 2025 Workshop on Distributed, Secure,<br>
+    and Trustworthy Intelligence with LLMs
+  </h1>
+</div>
+
 <!-- Hero banner -->
-<div style="text-align:center; margin-bottom:2rem;">
+<div style="text-align:center; margin-bottom:3rem;">
   <img
     src="{{ '/assets/img/banner.jpg' | relative_url }}"
     alt="IEEE DISTILL 2025 Workshop Banner"
     style="width:100%; max-height:300px; object-fit:cover;"
   />
 </div>
+## Welcome
+
+Welcome to the 1st IEEE Workshop on Distributed, Secure, and Trustworthy Intelligence with LLMs (IEEE DISTILL 2025). This half-day event brings together researchers on secure, privacy-preserving, and robust LLM systems.
 
 <p align="center">
-  <img
-    src="{{ '/assets/img/distill-logo.png' | relative_url }}"
-    alt="IEEE DISTILL 2025 Logo"
-    style="max-width:200px; display:block; margin:auto;"
-  />
+  <a href="https://ieeedistill.github.io/">IEEE DISTILL 2025</a> • Co-located with 
+  <a href="https://www.sis.pitt.edu/lersais/conference/tps/2025/">IEEE TPS 2025</a> (7th IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications, Nov. 11–14, 2025, Pittsburgh, PA, USA) • Co-located with 
+  <a href="https://www.sis.pitt.edu/lersais/conference/cic/2025/">IEEE CIC 2025</a> and 
+  <a href="https://www.sis.pitt.edu/lersais/conference/cogmi/2025/">IEEE CogMI 2025</a>
 </p>
 
-## IEEE DISTILL 2025 Workshop on Distributed, Secure, and Trustworthy Intelligence with LLMs
 
 **Date:** November 14, 2025  
 **Location:** TBD  
