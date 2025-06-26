@@ -46,7 +46,7 @@ nav_order: 5
   </div>
   <div class="team-member">
     <img
-      src="{{ '/assets/img/anindya.jpg' | relative_url }}"
+      src="{{ '/assets/img/anindya2.png' | relative_url }}"
       alt="Dr. Anindya Bijoy Das"
       style="width:200px; height:200px; object-fit:cover; border-radius:50%;"
     />
