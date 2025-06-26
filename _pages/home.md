@@ -6,6 +6,15 @@ nav: true
 nav_order: 1
 ---
 
+<!-- Hero banner -->
+<div style="text-align:center; margin-bottom:2rem;">
+  <img
+    src="{{ '/assets/img/banner.jpg' | relative_url }}"
+    alt="IEEE DISTILL 2025 Workshop Banner"
+    style="width:100%; max-height:300px; object-fit:cover;"
+  />
+</div>
+
 <p align="center">
   <img
     src="{{ '/assets/img/distill-logo.png' | relative_url }}"
@@ -14,22 +23,15 @@ nav_order: 1
   />
 </p>
 
-## IEEE Workshop on Distributed, Secure, and Trustworthy Intelligence with LLMs (IEEE DISTILL 2025)
+## IEEE DISTILL 2025 Workshop on Distributed, Secure, and Trustworthy Intelligence with LLMs
 
-Welcome to the 1st IEEE Workshop on Distributed, Secure, and Trustworthy Intelligence with LLMs (IEEE DISTILL 2025).
-This half-day event brings together researchers on secure, privacy-preserving, and robust LLM systems. [IEEE DISTILL 2025](https://ieeedistill.github.io/) is co-located with 
-[IEEE TPS 2025](https://www.sis.pitt.edu/lersais/conference/tps/2025/)
-The 7th IEEE International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications
-Nov. 11-14, 2025, Pittsburgh, PA, USA
-Co-located with [IEEE CIC 2025](https://www.sis.pitt.edu/lersais/conference/cic/2025/) and [IEEE CogMI 2025](https://www.sis.pitt.edu/lersais/conference/cogmi/2025/).
+**Date:** November 14, 2025  
+**Location:** TBD  
 
-**Workshop Date:** November 14, 2025  
-**Workshop Location:** Pittsburgh, PA, USA 
-
-<!--**Quick Links:**  -->
-<!--[Call for Papers]({{ '/call-for-papers/' | relative_url }}) |-->  
-<!--[Organization]({{ '/organization/' | relative_url }}) |  -->
-<!--[Tentative Schedule]({{ '/schedule/' | relative_url }})-->
+**Quick Links:**  
+[Call for Papers]({{ '/call-for-papers/' | relative_url }}) |  
+[Organization]({{ '/organization/' | relative_url }}) |  
+[Tentative Schedule]({{ '/schedule/' | relative_url }})
 
 <div class="news-box">
   <h4>Announcements</h4>
@@ -43,10 +45,16 @@ Co-located with [IEEE CIC 2025](https://www.sis.pitt.edu/lersais/conference/cic/
 
 ---
 
+## Proceedings & Paper Types
+
+All accepted papers will be submitted for inclusion in the **IEEE Xplore conference proceedings**.  
+Authors may choose to submit either **full-length (long up to 8 pages)** or short papers (long up to 4 pages).
+
+---
+
 ### Organization Preview
 
 <div class="team-container" style="justify-content:center; gap:2rem; margin-bottom:2rem;">
-  <!-- General Chair -->
   <div class="team-member">
     <img
       src="{{ '/assets/img/brinton.jpg' | relative_url }}"
@@ -55,32 +63,29 @@ Co-located with [IEEE CIC 2025](https://www.sis.pitt.edu/lersais/conference/cic/
     />
     <p><strong>Dr. Christopher G. Brinton</strong><br><em>General Chair</em></p>
   </div>
-  <!-- TPC Chair -->
   <div class="team-member">
     <img
       src="{{ '/assets/img/shahnewaz.jpg' | relative_url }}"
       alt="Dr. Shahnewaz Karim Sakib"
       style="width:100px; height:100px; object-fit:cover; border-radius:50%;"
     />
-    <p><strong>Dr. Shahnewaz K. Sakib</strong><br><em>TPC Chair</em></p>
+    <p><strong>Dr. Shahnewaz Karim Sakib</strong><br><em>TPC Co-Chair</em></p>
   </div>
-  <!-- TPC Chair -->
   <div class="team-member">
     <img
       src="{{ '/assets/img/anindya2.png' | relative_url }}"
       alt="Dr. Anindya Bijoy Das"
       style="width:100px; height:100px; object-fit:cover; border-radius:50%;"
     />
-    <p><strong>Dr. Anindya B. Das</strong><br><em>TPC Chair</em></p>
+    <p><strong>Dr. Anindya Bijoy Das</strong><br><em>TPC Co-Chair</em></p>
   </div>
-  <!-- TPC Chair -->
   <div class="team-member">
     <img
       src="{{ '/assets/img/shibbirahmed.jpg' | relative_url }}"
       alt="Dr. Shibbir Ahmed"
       style="width:100px; height:100px; object-fit:cover; border-radius:50%;"
     />
-    <p><strong>Dr. Shibbir Ahmed</strong><br><em>TPC Chair</em></p>
+    <p><strong>Dr. Shibbir Ahmed</strong><br><em>TPC Co-Chair</em></p>
   </div>
 </div>
 
@@ -88,9 +93,21 @@ Co-located with [IEEE CIC 2025](https://www.sis.pitt.edu/lersais/conference/cic/
 
 ### Call for Papers
 
-Submission deadline **August 1, 2025**.  
+Submission opens **June 1, 2025**; deadline **August 1, 2025** (AoE).  
 Learn more on the [Call for Papers page]({{ '/call-for-papers/' | relative_url }}).
 
 ---
+
+### Tentative Workshop Schedule
+
+| Time                   | Session                                                         |
+|------------------------|-----------------------------------------------------------------|
+| 08:45 AM – 09:00 AM    | Welcome and Opening Remarks                                     |
+| 09:00 AM – 10:00 AM    | Paper Presentations – Session 1 (3 papers × 15 min talk + 5 min Q&A) |
+| 10:00 AM – 10:45 AM    | Keynote Talk                                                    |
+| 10:45 AM – 11:00 AM    | Coffee Break & Networking                                       |
+| 11:00 AM – 12:00 PM    | Paper Presentations – Session 2 (3 papers × 15 min talk + 5 min Q&A) |
+| 12:00 PM – 01:00 PM    | Poster Session & Open Discussions                               |
+| 01:00 PM               | Closing Remarks and Adjournment                                 |
 
 Full schedule on the [Tentative Workshop Schedule page]({{ '/schedule/' | relative_url }}).
