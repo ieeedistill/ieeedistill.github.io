@@ -61,7 +61,7 @@ Welcome to the 1st IEEE Workshop on Distributed, Secure, and Trustworthy Intelli
 ## Proceedings & Paper Types
 
 All accepted papers will be submitted for inclusion in the **IEEE Xplore conference proceedings**.  
-Authors may choose to submit either **full-length (long up to 10 pages)** or short papers (long up to 5 pages).
+Authors may choose to submit either **full-length (long up to 10 pages)** or **short papers (long up to 5 pages)**.
 
 ### Organization Preview
 
