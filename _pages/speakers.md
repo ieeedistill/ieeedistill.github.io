@@ -6,78 +6,73 @@ nav: true
 nav_order: 2
 ---
 
-## Invited Talks
+## Invited Speakers
 
-<div class="team-container">
+<div class="team-container" style="justify-content:center; gap:1.5rem; flex-wrap:wrap;">
 
-  <!-- Speaker 1 -->
-  <div class="team-member">
-    <img src="{{ '/assets/img/speakers/thashim.jpg' | relative_url }}"
-         alt="TBD" />
+  <!-- Placeholder Speaker 1 -->
+  <div class="team-member" style="text-align:center;">
+    <img
+      src="{{ '/assets/img/speakers/speaker.jpg' | relative_url }}"
+      alt="TBD"
+      style="width:80px; height:80px; object-fit:cover; border-radius:50%;"
+    />
     <p>
       <strong>TBD</strong><br>
-      Stanford University<br>
-      <strong>Age:</strong> TBD
+      <em>TBD</em>
     </p>
   </div>
 
-  <!-- Speaker 2 -->
-  <div class="team-member">
-    <img src="{{ '/assets/img/speakers/nazneen_rajani.jpg' | relative_url }}"
-         alt="TBD" />
+  <!-- Placeholder Speaker 2 -->
+  <div class="team-member" style="text-align:center;">
+    <img
+      src="{{ '/assets/img/speakers/speaker.jpg' | relative_url }}"
+      alt="TBD"
+      style="width:80px; height:80px; object-fit:cover; border-radius:50%;"
+    />
     <p>
       <strong>TBD</strong><br>
-      (Formerly) Hugging Face<br>
-      <strong>Age:</strong> TBD
+      <em>TBD</em>
     </p>
   </div>
 
-  <!-- Speaker 3 -->
-  <div class="team-member">
-    <img src="{{ '/assets/img/speakers/fei_xia.jpg' | relative_url }}"
-         alt="TBD" />
+  <!-- Placeholder Speaker 3 -->
+  <div class="team-member" style="text-align:center;">
+    <img
+      src="{{ '/assets/img/speakers/speaker.jpg' | relative_url }}"
+      alt="TBD"
+      style="width:80px; height:80px; object-fit:cover; border-radius:50%;"
+    />
     <p>
       <strong>TBD</strong><br>
-      Google DeepMind<br>
-      <strong>Age:</strong> TBD
+      <em>TBD</em>
     </p>
   </div>
 
-  <!-- Speaker 4 -->
-  <div class="team-member">
-    <img src="{{ '/assets/img/speakers/sara_hooker.jpg' | relative_url }}"
-         alt="TBD" />
+  <!-- Placeholder Speaker 4 -->
+  <div class="team-member" style="text-align:center;">
+    <img
+      src="{{ '/assets/img/speakers/speaker.jpg' | relative_url }}"
+      alt="TBD"
+      style="width:80px; height:80px; object-fit:cover; border-radius:50%;"
+    />
     <p>
       <strong>TBD</strong><br>
-      Cohere for AI<br>
-      <strong>Age:</strong> TBD
+      <em>TBD</em>
     </p>
   </div>
 
-  <!-- Speaker 5 -->
-  <div class="team-member">
-    <img src="{{ '/assets/img/speakers/alex_tamkin.jpg' | relative_url }}"
-         alt="TBD" />
+  <!-- Placeholder Speaker 5 -->
+  <div class="team-member" style="text-align:center;">
+    <img
+      src="{{ '/assets/img/speakers/speaker.jpg' | relative_url }}"
+      alt="TBD"
+      style="width:80px; height:80px; object-fit:cover; border-radius:50%;"
+    />
     <p>
       <strong>TBD</strong><br>
-      Anthropic<br>
-      <strong>Age:</strong> TBD
-    </p>
-  </div>
-
-  <!-- Placeholder Speaker -->
-  <div class="team-member">
-    <img src="{{ '/assets/img/speakers/tbd.jpg' | relative_url }}"
-         alt="TBD" style="filter: grayscale(100%);" />
-    <p>
-      <strong>TBD</strong><br>
-      <em>Speaker details coming soon</em><br>
-      <strong>Age:</strong> TBD
+      <em>TBD</em>
     </p>
   </div>
 
 </div>
-
-#### Talk Abstracts, Slides & Video
-
-*(Coming soon.)*
