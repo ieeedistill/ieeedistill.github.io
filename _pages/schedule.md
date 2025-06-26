@@ -18,4 +18,4 @@ nav_order: 6
 | 10:45 AM – 11:00 AM       | | Coffee Break & Informal Networking                                                  |
 | 11:00 AM – 12:00 PM       | | Paper Presentations – Session 2                                                     |
 | 12:00 PM – 12:50 PM       | | Poster Session & Open Discussions                                                   |
-| 12:50 PM   01:00 PM       | | Closing Remarks and Adjournment                                                     |
+| 12:50 PM – 01:00 PM       | | Closing Remarks and Adjournment                                                     |
