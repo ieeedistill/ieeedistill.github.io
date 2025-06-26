@@ -1,15 +1,15 @@
 ---
-title: “Contact & Logistics”
+title: “Contact”
 layout: default
 permalink: /contact/
 nav: true
-nav_order: 6
+nav_order: 7
+nav_title: "Contact"
 ---
 # Contact
 
 If you have questions, please reach out to:
 
 - **Dr. Anindya Bijoy Das** 
- adas@uakron.edu :contentReference[oaicite:8]{index=8}  
+ adas@uakron.edu 
 
-**Special requests:** projector, whiteboard, Wi-Fi, hybrid room if possible :contentReference[oaicite:9]{index=9}
