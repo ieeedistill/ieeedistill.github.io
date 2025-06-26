@@ -75,7 +75,7 @@ Authors may choose to submit either **full-length (long up to 8 pages)** or shor
 </p>
 
 
-<div style="display:flex; justify-content:center; align-items:center; gap:2rem; flex-wrap:wrap; margin-bottom:2rem;">
+<div style="display:flex; justify-content:center; align-items:center; gap:2rem; flex-wrap:wrap; margin-bottom:4rem;">
   <div style="text-align:center;">
     <img
       src="{{ '/assets/img/shahnewaz.jpg' | relative_url }}"
