@@ -28,7 +28,7 @@ nav_order: 1
 </div>
 ## Welcome
 
-Welcome to the 1st IEEE Workshop on Distributed, Secure, and Trustworthy Intelligence with LLMs (IEEE DISTILL 2025). This half-day event brings together researchers on secure, privacy-preserving, and robust LLM systems.
+Welcome to the 1st IEEE Workshop on Distributed, Secure, and Trustworthy Intelligence with LLMs (IEEE DISTILL 2025). This event brings together researchers on secure, privacy-preserving, and robust LLM systems.
 
 <p align="center">
   <a href="https://ieeedistill.github.io/">IEEE DISTILL 2025</a> • Co-located with 
@@ -86,9 +86,9 @@ Welcome to the 1st IEEE Workshop on Distributed, Secure, and Trustworthy Intelli
 
 ### Call for Papers
 
-Submission deadline **August 1, 2025** (AoE).
-Notification of acceptance **August 28, 2025**.
-Camera-ready paper due **September 10, 2025**.
+Submission deadline **August 1, 2025** (AoE). <br>
+Notification of acceptance **August 28, 2025**.<br>
+Camera-ready paper due **September 10, 2025**.<br>
 Learn more on the [Call for Papers page]({{ '/call-for-papers/' | relative_url }}).
 
 ---
