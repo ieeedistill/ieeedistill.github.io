@@ -28,7 +28,7 @@ nav_order: 1
 </div>
 ## Welcome
 
-Welcome to the 1st IEEE Workshop on Distributed, Secure, and Trustworthy Intelligence with LLMs (IEEE DISTILL 2025). This event brings together researchers on secure, privacy-preserving, and robust LLM systems.
+Welcome to the 1st IEEE Workshop on Distributed, Secure, and Trustworthy Intelligence with LLMs (**IEEE DISTILL 2025**). This event brings together researchers on secure, privacy-preserving, and robust LLM systems.
 
 <p align="center">
   <a href="https://ieeedistill.github.io/">IEEE DISTILL 2025</a> • Co-located with 
