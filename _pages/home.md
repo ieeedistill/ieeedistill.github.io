@@ -41,28 +41,6 @@ Welcome to the 1st IEEE Workshop on Distributed, Secure, and Trustworthy Intelli
 **Date:** November 14, 2025  
 **Location:** TBD  
 
-**Quick Links:**  
-[Call for Papers]({{ '/call-for-papers/' | relative_url }}) |  
-[Organization]({{ '/organization/' | relative_url }}) |  
-[Tentative Schedule]({{ '/schedule/' | relative_url }})
-
-<div class="news-box">
-  <h4>Announcements</h4>
-  <ul>
-    <li><strong>Submission deadline:</strong> August 1, 2025</li>
-    <li><strong>Notification of acceptance:</strong> August 28, 2025</li>
-    <li><strong>Camera-ready due:</strong> September 10, 2025</li>
-    <li><strong>Workshop date:</strong> November 14, 2025</li>
-  </ul>
-</div>
-
----
-
-## Proceedings & Paper Types
-
-All accepted papers will be submitted for inclusion in the **IEEE Xplore conference proceedings**.  
-Authors may choose to submit either **full-length (long up to 10 pages)** or **short papers (long up to 5 pages)**.
-
 ### Organization Preview
 
 <p align="center">
@@ -107,6 +85,8 @@ Authors may choose to submit either **full-length (long up to 10 pages)** or **s
 ### Call for Papers
 
 Submission deadline **August 1, 2025** (AoE).  
+Notification of acceptance:**August 28, 2025**.
+Camera-ready paper due: **September 10, 2025**.
 Learn more on the [Call for Papers page]({{ '/call-for-papers/' | relative_url }}).
 
 ---
