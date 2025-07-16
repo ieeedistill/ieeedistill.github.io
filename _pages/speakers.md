@@ -14,7 +14,7 @@ nav_order: 2
   <!-- Placeholder Speaker 1 -->
   <div class="team-member" style="text-align:center;">
     <img
-      src="{{ '/assets/img/speakers/sayem.jpg' | relative_url }}"
+      src="{{ '/assets/img/speakers/Sayem.jpg' | relative_url }}"
       alt="Dr. Sayem Mohammad Imtiaz"
       style="width:80px; height:80px; object-fit:cover; border-radius:50%;"
     />
