@@ -14,11 +14,11 @@ nav_order: 2
   <div class="team-member" style="text-align:center;">
     <img
       src="{{ '/assets/img/speakers/sayem.jpg' | relative_url }}"
-      alt="TBD"
+      alt="Dr. Sayem Mohammad Imtiaz"
       style="width:80px; height:80px; object-fit:cover; border-radius:50%;"
     />
     <p>
-      <strong>Sayem Mohammad Imtiaz</strong><br>
+      <strong>Dr. Sayem Mohammad Imtiaz</strong><br>
       <em>Research Scientist, Meta</em>
     </p>
   </div>
