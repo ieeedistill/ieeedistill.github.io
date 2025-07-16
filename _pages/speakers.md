@@ -13,12 +13,12 @@ nav_order: 2
   <!-- Placeholder Speaker 1 -->
   <div class="team-member" style="text-align:center;">
     <img
-      src="{{ '/assets/img/speakers/speaker.png' | relative_url }}"
-      alt="TBD"
+      src="{{ '/assets/img/speakers/sayem.jpg' | relative_url }}"
+      alt="Sayem Mohammad Imtiaz"
       style="width:80px; height:80px; object-fit:cover; border-radius:50%;"
     />
     <p>
-      <strong>TBD</strong><br>
+      <strong>Research Scientist, Meta</strong><br>
       <em>TBD</em>
     </p>
   </div>
