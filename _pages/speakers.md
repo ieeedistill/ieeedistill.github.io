@@ -10,66 +10,59 @@ nav_order: 2
 
 <div class="team-container" style="
     display: flex;
-    justify-content: flex-start;    /* left-align items */
-    gap: 1.5rem;
-    flex-wrap: wrap;
+    flex-direction: column;   /* one speaker per row */
+    gap: 2rem;
   ">
 
-  <!-- Speaker 1 -->
-  <div class="team-member" style="text-align: left; /* left-align caption */">
+  <!-- Speaker: Dr. Sayem Mohammad Imtiaz -->
+  <div class="team-member" style="
+      display: flex;
+      align-items: flex-start;
+      gap: 1rem;
+    ">
     <img
       src="{{ '/assets/img/speakers/Sayem.jpg' | relative_url }}"
       alt="Dr. Sayem Mohammad Imtiaz"
       style="
-        width: 80px;         /* fixed size */
-        height: 80px;
+        width: 120px;
+        height: 120px;
         object-fit: cover;
         border-radius: 50%;
-        display: inline-block; /* no block centering */
+        flex-shrink: 0;
       "
     />
-    <p style="margin-top: 0.5rem;">
-      <strong>Dr. Sayem Mohammad Imtiaz</strong><br>
-      <em>Research Scientist, Meta</em>
-    </p>
+    <div>
+      <p style="margin:0;"><strong>Dr. Sayem Mohammad Imtiaz</strong></p>
+      <p style="margin:0 0 0.5rem;"><em>Research Scientist, Meta</em></p>
+      <p style="margin:0;">
+        Dr. Imtiaz is a Research Scientist at Meta, developing ML-based brand safety solutions to protect advertisers’ reputations. He earned his PhD in Computer Science from Iowa State University under Dr. Hridesh Rajan—where he researched AI Engineering, model modularity, and error mitigation in large language models. Previously, he completed an M.S. at Mississippi State University on secure software development.
+      </p>
+    </div>
   </div>
 
-  <!-- Speaker 2 -->
-  <div class="team-member" style="text-align: left;">
+  <!-- Speaker: TBD -->
+  <div class="team-member" style="
+      display: flex;
+      align-items: flex-start;
+      gap: 1rem;
+    ">
     <img
       src="{{ '/assets/img/speakers/speaker.png' | relative_url }}"
       alt="TBD"
       style="
-        width: 80px;
-        height: 80px;
+        width: 120px;
+        height: 120px;
         object-fit: cover;
         border-radius: 50%;
-        display: inline-block;
+        flex-shrink: 0;
       "
     />
-    <p style="margin-top: 0.5rem;">
-      <strong>TBD</strong><br>
-      <em>TBD</em>
-    </p>
+    <div>
+      <p style="margin:0;"><strong>TBD</strong></p>
+      <p style="margin:0;"><em>TBD</em></p>
+    </div>
   </div>
 
-  <!-- Speaker 3 -->
-  <div class="team-member" style="text-align: left;">
-    <img
-      src="{{ '/assets/img/speakers/speaker.png' | relative_url }}"
-      alt="TBD"
-      style="
-        width: 80px;
-        height: 80px;
-        object-fit: cover;
-        border-radius: 50%;
-        display: inline-block;
-      "
-    />
-    <p style="margin-top: 0.5rem;">
-      <strong>TBD</strong><br>
-      <em>TBD</em>
-    </p>
-  </div>
+  <!-- Add more speakers here in the same pattern -->
 
 </div>
