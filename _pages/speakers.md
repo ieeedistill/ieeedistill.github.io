@@ -10,6 +10,22 @@ nav_order: 2
 
 <div class="team-container" style="justify-content:center; gap:1.5rem; flex-wrap:wrap;">
 
+
+  <!-- Placeholder Speaker 0 -->
+  <div class="team-member" style="text-align:center;">
+    <img
+      src="{{ '/assets/img/speakers/sayem.jpg' | relative_url }}"
+      alt="Dr. Sayem Mohammad Imtiaz"
+      style="width:200px; height:200px; object-fit:cover; border-radius:50%;"
+    />
+    <h3>Dr. Sayem Mohammad Imtiaz</h3>
+    <p>
+      <strong>Dr. Sayem Mohammad Imtiaz</strong><br>
+      <em>Research Scientist, Meta</em>
+    </p>
+  </div>
+
+
   <!-- Placeholder Speaker 1 -->
   <div class="team-member" style="text-align:center;">
     <img
