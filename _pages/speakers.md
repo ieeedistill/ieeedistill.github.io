@@ -8,6 +8,8 @@ nav_order: 2
 
 ## Invited Speakers
 
+<br /><br />
+
 <div class="team-container" style="display: flex; flex-direction: column; gap: 2rem;">
 
   <!-- Speaker: Dr. Sayem Mohammad Imtiaz -->
@@ -22,7 +24,7 @@ nav_order: 2
       <p style="margin: 0 0 0.5rem;"><em>Research Scientist, Meta</em></p>
       <p style="margin: 0;"><strong>Title:</strong> TBD</p>
       <p style="margin: 0;"><strong>Talk Abstract:</strong> TBD</p>
-      <p style="margin: 0;"><strong>Bio:</strong> Dr. Imtiaz is a Research Scientist at Meta, developing ML-based brand safety solutions to protect advertisers’ reputations. He earned his PhD in Computer Science from Iowa State University under Dr. Hridesh Rajan—where he researched AI Engineering, model modularity, and error mitigation in large language models. Previously, he completed an M.S. at Mississippi State University on secure software development.</p>
+      <p style="margin: 0;"><strong>Bio:</strong> Dr. Imtiaz is a Research Scientist at Meta, developing ML-based brand safety solutions to protect advertisers’ reputations. His research spans in AI Engineering, model modularity, and error mitigation in large language models.</p>
     </div>
   </div>
 
