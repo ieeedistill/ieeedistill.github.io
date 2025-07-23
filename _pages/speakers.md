@@ -31,7 +31,7 @@ nav_order: 2
   <!-- Speaker: Dr. Benjamin Steenhoek -->
   <div class="team-member" style="display: flex; align-items: flex-start; gap: 1rem;">
     <img
-      src="{{ '/assets/img/speakers/speaker.png' | relative_url }}"
+      src="{{ '/assets/img/speakers/ben.png' | relative_url }}"
       alt="Dr. Benjamin Steenhoek"
       style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%; flex-shrink: 0;"
     />
