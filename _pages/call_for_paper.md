@@ -45,7 +45,7 @@ For questions, please contact the workshop organizers.
 
 ## Important Dates
  
-- **Submission Deadline:** August 1, 2025  
+- **Submission Deadline:** August 10, 2025  
 - **Notification of Acceptance:** August 28, 2025  
 - **Camera-Ready Due:** September 10, 2025  
 - **Workshop Date:** November 14, 2025
