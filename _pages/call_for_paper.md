@@ -43,6 +43,11 @@ Authors may choose to submit either **full-length (up to 10 pages)** or **short 
 
 For questions, please contact the workshop organizers.
 
+## Paper Presentation
+
+This workshop is primarily an in-person event. We can accommodate remote presentation through pre-recorded video only for special circumstances (visa, health etc.), and in that case, live zoom participation of the presenter for Q&A is required. If a paper is presented, then it will be included in the final proceedings. Please note that each paper must be covered by a full author registration, whether the presentation is in-person or online.
+
+
 ## Important Dates
  
 - **Submission Deadline:** August 10, 2025  
