@@ -87,8 +87,8 @@ Welcome to the 1st IEEE Workshop on Distributed, Secure, and Trustworthy Intelli
 ### Call for Papers
 
 Submission deadline **August 31, 2025** (AoE). <br>
-Notification of acceptance **August 28, 2025**.<br>
-Camera-ready paper due **September 10, 2025**.<br>
+Notification of acceptance **September 15, 2025**.<br>
+Camera-ready paper due **September 30, 2025**.<br>
 Learn more on the [Call for Papers page]({{ '/call-for-papers/' | relative_url }}).
 
 ---
