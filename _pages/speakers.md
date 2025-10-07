@@ -56,7 +56,7 @@ nav_order: 2
       <p style="margin: 0 0 0.5rem;"><em>Senior Researcher, Microsoft</em></p>
       <p style="margin: 0;"><strong>Title:</strong> TBD</p>
       <p style="margin: 0;"><strong>Talk Abstract:</strong> TBD</p>
-      <p style="margin: 0;"><strong>Bio:</strong> TBD</p>
+      <p style="margin: 0;"><strong>Bio:</strong> Dr. Chakraborty, a Senior Researcher in Microsoft Research’s RiSE group, works on reliability and trustworthiness in AI-powered programming tools. His focus spans reliable AI-generated code and AI-assisted formal programming.</p>
     </div>
   </div>
 
