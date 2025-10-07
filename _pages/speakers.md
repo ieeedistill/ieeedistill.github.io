@@ -48,7 +48,7 @@ nav_order: 2
   <div class="team-member" style="display: flex; align-items: flex-start; gap: 1rem;">
     <img
       src="{{ '/assets/img/speakers/saikat.png' | relative_url }}"
-      alt="TBD Speaker 3"
+      alt="Saikat Chakraborty"
       style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%; flex-shrink: 0;"
     />
     <div class="speaker-info" style="text-align: left;">
