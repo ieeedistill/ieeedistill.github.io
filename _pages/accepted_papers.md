@@ -16,4 +16,4 @@ nav_title: "Papers"
 
 We’ll review the submissions and will announce the accepted papers here.
 
-<small>Stay tuned for updates after **August 28, 2025**.</small>
+<small>Stay tuned for updates after **September 30, 2025**.</small>
