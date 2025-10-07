@@ -44,16 +44,16 @@ nav_order: 2
     </div>
   </div>
 
-  <!-- Speaker: TBD 3 -->
+  <!-- Speaker: Saikat Chakraborty -->
   <div class="team-member" style="display: flex; align-items: flex-start; gap: 1rem;">
     <img
-      src="{{ '/assets/img/speakers/speaker.png' | relative_url }}"
+      src="{{ '/assets/img/speakers/saikat.png' | relative_url }}"
       alt="TBD Speaker 3"
       style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%; flex-shrink: 0;"
     />
     <div class="speaker-info" style="text-align: left;">
-      <p style="margin: 0;"><strong>TBD Speaker 3</strong></p>
-      <p style="margin: 0 0 0.5rem;"><em>TBD Affiliation</em></p>
+      <p style="margin: 0;"><strong>Dr. Saikat Chakraborty</strong></p>
+      <p style="margin: 0 0 0.5rem;"><em>Senior Researcher, Microsoft</em></p>
       <p style="margin: 0;"><strong>Title:</strong> TBD</p>
       <p style="margin: 0;"><strong>Talk Abstract:</strong> TBD</p>
       <p style="margin: 0;"><strong>Bio:</strong> TBD</p>
