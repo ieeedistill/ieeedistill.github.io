@@ -38,7 +38,7 @@ Welcome to the 1st IEEE Workshop on Distributed, Secure, and Trustworthy Intelli
 </p>
 
 
-**Date:** November 14, 2025  
+**Date:** November 11, 2025  
 **Location:** TBD  
 
 ---
