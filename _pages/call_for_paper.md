@@ -53,4 +53,4 @@ This workshop is primarily an in-person event. We can accommodate remote present
 - **Submission Deadline:** August 31, 2025  
 - **Notification of Acceptance:** September 15, 2025  
 - **Camera-Ready Due:** September 30, 2025  
-- **Workshop Date:** November 14, 2025
+- **Workshop Date:** November 11, 2025
