@@ -82,12 +82,8 @@ nav_order: 5
 ## Technical Program Committee Members
 
 <ul>
-  <li>Dr. Sumon Biswas, Assistant Professor, Case Western Reserve University, USA</li>
-  <li>Dr. Zhonghao Liao, Assistant Professor, Milwaukee School of Engineering, USA</li>
   <li>Dr. Dewan Fahim Noor, Assistant Professor, Tuskegee University, USA</li>
   <li>Dr. Md Abul Hasnat, Assistant Professor, University of Wyoming, USA</li>
   <li>Dr. Abdullah Al Maruf, Assistant Professor, California State University, USA</li>
-  <li>Dr. Mahmoud Nazzal, Assistant Professor, Old Dominion University, USA</li>
   <li>Dr. Shiplu Sarker, Postdoctoral Research Associate, Iowa State University, USA</li>
-  <li>Dr. Khandaker Mamun Ahmed, Assistant Professor, Dakota State University, USA</li>
-</ul>
+  </ul>
