@@ -22,9 +22,9 @@ nav_order: 2
     <div class="speaker-info" style="text-align: left;">
       <p style="margin: 0;"><strong>Dr. Saikat Chakraborty</strong></p>
       <p style="margin: 0 0 0.5rem;"><em>Senior Researcher, Microsoft</em></p>
-      <p style="margin: 0;"><strong>Title:</strong> TBD</p>
-      <p style="margin: 0;"><strong>Talk Abstract:</strong> TBD</p>
-      <p style="margin: 0;"><strong>Bio:</strong> Dr. Chakraborty, a Senior Researcher in Microsoft Research’s RiSE group, works on reliability and trustworthiness in AI-powered programming tools. His focus spans reliable AI-generated code and AI-assisted formal programming.</p>
+      <p style="margin: 0;"><strong>Title:</strong> Proof Oriented Programming with AI : Towards trusted AI Assisted Programming </p>
+      <p style="margin: 0;"><strong>Talk Abstract:</strong> AI can write code, but we don’t trust it—yet. Proof-oriented programming (PoP) changes the contract: developers write specifications, and code ships only when the proofs check. This talk argues for “PoP with AI”: a workflow where large language models draft programs and proofs, SMT-backed verifiers judge them, and retrieval/repair loops close the gap between intent and implementation. I’ll motivate the approach with concrete evidence from F*, Dafny, and Verus–style ecosystems and share results from our recent work that curates a large corpus of real, production-grade F* programs and proofs and uses it to train/evaluate LLMs. Fine-tuned (and cheaper) models, augmented with type-aware retrieval and verified by a program-fragment checker, can automatically synthesize a substantial fraction of definitions and lemmas—often matching or beating much larger models—while guaranteeing that only type-correct, solver-validated outputs survive. </p>
+      <p style="margin: 0;"><strong>Bio:</strong> Dr. Saikat Chakraborty, a Senior Researcher in Microsoft Research’s RiSE group, works on reliability and trustworthiness in AI-powered programming tools. His focus spans reliable AI-generated code and AI-assisted formal programming.</p>
     </div>
   </div>
   
