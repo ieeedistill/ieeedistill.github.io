@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Accepted Papers"
+title: "Published Papers"
 permalink: /accepted/
 nav: true
 nav_order: 4
@@ -14,6 +14,6 @@ nav_title: "Papers"
 
 # Accepted Papers: TBD
 
-We’ll review the submissions and will announce the accepted papers here.
+We will announce the published papers here.
 
-<small>Stay tuned for updates after **September 30, 2025**.</small>
+<small>Stay tuned for updates after **November 14, 2025**.</small>
