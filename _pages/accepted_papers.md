@@ -12,7 +12,7 @@ nav_title: "Papers"
   <img src="{{ '/assets/img/distill-logo.png' | relative_url }}" alt="IEEE DISTILL 2025 Logo" style="max-width:200px;" />
 </p>
 
-# Accepted Papers: TBD
+# Papers: TBD
 
 We will announce the published papers here.
 
