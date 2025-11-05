@@ -64,7 +64,7 @@ nav_order: 2
   <div class="team-member" style="display: flex; align-items: flex-start; gap: 1rem;">
     <img
       src="{{ '/assets/img/speakers/imtiaz.jpg' | relative_url }}"
-      alt="Saikat Chakraborty"
+      alt="Dr. Imtiaz Karim"
       style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%; flex-shrink: 0;"
     />
     <div class="speaker-info" style="text-align: left;">
@@ -73,6 +73,22 @@ nav_order: 2
       <p style="margin: 0;"><strong>Title:</strong> LLM and ML for Cellular Network Security: Challenges and Opportunities </p>
       <p style="margin: 0;"><strong>Talk Abstract:</strong> Cellular networks are the bedrock of modern communication. The recent deployment of 5G has generated further enthusiasm and opportunities in both academia and industry. Therefore, the security of cellular networks is critical. In this talk, I will elaborate on the essential challenges of ensuring cellular network security and move on to my research on using LLMs and ML to enhance the resilience of the networks. I will begin by discussing the analysis of 4G/5G specifications and introducing CellularLint, which uses a revamped few-shot learning mechanism on domain-adapted Large Language Models (LLMs) to detect inconsistencies in 4G and 5G specifications. Then, I will discuss an ML-based defensive approach, termed FBSDetector, which is devised to detect and defend against threats such as Fake Base Stations and multi-step attacks. I will conclude by outlining some of the challenges and opportunities of using LLMs and ML for ensuring the security and privacy of a highly specialized domain, such as 5G and NextG protocols and systems. </p>
       <p style="margin: 0;"><strong>Bio:</strong> Dr. Imtiaz Karim is an Assistant Professor of Computer Science at the University of Texas at Dallas, where he leads the System and Network Security (SysNetS) lab. His research focuses on securing wireless communication protocols and developing AI-driven tools to ensure the reliability and security of current and next-generation network systems. Prior to UTD, he was a Postdoctoral Researcher at Purdue University, where he also earned his Ph.D. in Computer Science.</p>
+    </div>
+  </div>
+
+    <!-- Speaker: Dr. Tunazzina Islam -->
+  <div class="team-member" style="display: flex; align-items: flex-start; gap: 1rem;">
+    <img
+      src="{{ '/assets/img/speakers/tunazzina.jpg' | relative_url }}"
+      alt="Dr. Tunazzina Islam"
+      style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%; flex-shrink: 0;"
+    />
+    <div class="speaker-info" style="text-align: left;">
+      <p style="margin: 0;"><strong>Dr. Tunazzina Islam</strong></p>
+      <p style="margin: 0 0 0.5rem;"><em>Visiting Assistant Professor, Purdue University</em></p>
+      <p style="margin: 0;"><strong>Title:</strong> Understanding Microtargeting Patterns in the Era of LLMs </p>
+      <p style="margin: 0;"><strong>Talk Abstract:</strong> The rise of social media has transformed how persuasive communication is created, delivered, and analyzed. In this talk, I will present computational frameworks for understanding microtargeting patterns—how messages are tailored to specific audiences across social and digital platforms and how these dynamics evolve. I will discuss recent advances that use large language models (LLMs) not only as generators of targeted content but also as auditors and interpreters of messaging practices, enabling transparency, bias detection, and accountability in AI-mediated communication.  Drawing on applications to contentious topics such as climate and vaccine debates, I will highlight how NLP- and LLM-based methods can reveal latent themes, arguments, and demographic disparities in microtargeted messages. Finally, I will outline pathways toward trustworthy AI systems—where LLMs serve as partners in auditing and explaining the social impact of algorithmic communication. </p>
+      <p style="margin: 0;"><strong>Bio:</strong> Dr. Tunazzina Islam is a Visiting Assistant Professor in the Department of Computer Science at Purdue University, where she also earned her Ph.D. Her research spans AI for Societal Impact at the intersection of Natural Language Processing and Computational Social Science; her AAAI-25 Doctoral Consortium proposal won Best Poster, her work appears in AAAI, ICWSM, NAACL, EMNLP, ACL, AIES, WebSci, and IEEE BigData, and she has been honored with awards such as the NAACL’25 Diversity & Inclusion Award, the Graduate Women in Science Program Award, the CRA-W Grad Cohort Award, and a Grace Hopper Scholarship. </p>
     </div>
   </div>
 </div>
