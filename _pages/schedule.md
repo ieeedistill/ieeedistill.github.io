@@ -9,7 +9,7 @@ nav_title: "Schedule"
 
 # Tentative Workshop Schedule
 
-**Date:** November 11, 2025
+Date: November 11, 2025
  
 | Time                | | | | Session                                                                  |
 |---------------------| | | |--------------------------------------------------------------------------|
@@ -18,10 +18,10 @@ nav_title: "Schedule"
 | 08:45 AM – 09:45 AM | | | | Paper Session 1                                                          |
 | 09:45 AM – 10:00 AM | | | | Break                                                                    |
 | 10:00 AM – 10:30 AM | | | | Invited Talk: Dr. Benjamin Steenhoek, Microsoft Research                 |
-| 10:30 AM – 11:00 AM | | | | Invited Talk: Dr. Tunazzina Islam, Assistant Professor, Purdue University                 |
-| 11:00 AM – 12:00 PM | | | | IEEE DISTILL Panel                                                       |
+| 10:30 AM – 11:00 AM | | | | Invited Talk: Dr. Tunazzina Islam, Assistant Professor, Purdue University |
+| 11:00 AM – 12:00 PM | | | | IEEE DISTILL Panel: Secure, Trustworthy, and Explainable AI in a Connected World<br><br>Panelists:<br>• Sumon Biswas, Assistant Professor, Computer & Data Sciences, Case Western Reserve University<br>• Amit Kumar Sikder, Assistant Professor, Computer Science, Iowa State University<br>• Amit Seal Ami, Assistant Professor, Bellini College of AI, Cybersecurity & Computing, University of South Florida<br>• Mohammad Saidur Rahman, Assistant Professor, Computer Science, University of Texas at El Paso<br><br>Moderator: Dr. Shahnewaz Karim Sakib, Assistant Professor, Computer Science and Engineering, University of Tennessee at Chattanooga |
 | 12:00 PM – 01:30 PM | | | | Lunch Break                                                              |
-| 01:30 PM – 02:00 PM | | | | Invited Talk: Dr. Imtiaz Karim, Assistant Professor, University of Texas at Dallas            |
+| 01:30 PM – 02:00 PM | | | | Invited Talk: Dr. Imtiaz Karim, Assistant Professor, University of Texas at Dallas |
 | 02:15 PM – 02:45 PM | | | | Invited Talk: Dr. Saikat Chakraborty, Microsoft Research                 |
 | 03:00 PM – 03:30 PM | | | | Invited Talk: Dr. Sayem Mohammad Imtiaz, Meta                            |
 | 03:30 PM – 03:45 PM | | | | Break                                                                    |
