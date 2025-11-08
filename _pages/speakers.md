@@ -12,7 +12,7 @@ nav_order: 2
 
 <div class="team-container" style="display: flex; flex-direction: column; gap: 2rem;">
 
-  <!-- Speaker: Saikat Chakraborty -->
+  <!-- Speaker: Dr. Saikat Chakraborty -->
   <div class="team-member" style="display: flex; align-items: flex-start; gap: 1rem;">
     <img
       src="{{ '/assets/img/speakers/saikat.png' | relative_url }}"
@@ -60,7 +60,23 @@ nav_order: 2
     </div>
   </div>
 
-  <!-- Speaker: Imtiaz Karim -->
+    <!-- Speaker: Dr. Farimah Farahmandi, -->
+  <div class="team-member" style="display: flex; align-items: flex-start; gap: 1rem;">
+    <img
+      src="{{ '/assets/img/speakers/farimah.jpg' | relative_url }}"
+      alt="Dr. Imtiaz Karim"
+      style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%; flex-shrink: 0;"
+    />
+    <div class="speaker-info" style="text-align: left;">
+      <p style="margin: 0;"><strong>Dr. Dr. Farimah Farahmandi</strong></p>
+      <p style="margin: 0 0 0.5rem;"><em>Assistant Professor, University of Florida</em></p>
+      <p style="margin: 0;"><strong>Title:</strong> LLM for SoC Security Verification </p>
+      <p style="margin: 0;"><strong>Talk Abstract:</strong> As modern system-on-chip (SoC) designs grow increasingly complex, ensuring security throughout the silicon development lifecycle has become a critical yet challenging task. Traditional verification techniques often lack security awareness and remain time-consuming, costly, and prone to human error, necessitating a shift toward automation. This talk explores LLM security verification as a transformative approach, leveraging generative AI to automate vulnerability detection, enhance formal verification, and strengthen threat modeling. By integrating AI into security workflows, engineers can significantly reduce development costs while improving the accuracy and efficiency of security validation. </p>
+      <p style="margin: 0;"><strong>Bio:</strong> Dr. Farimah Farahmandi is the Wally Rhines Endowed Professor in Hardware Security in the Department of Electrical and Computer Engineering at the University of Florida, where she also serves as Associate Director of the Florida Institute for Cybersecurity (FICS). Her research spans hardware security verification, formal methods, fault-injection attack analysis, and post-silicon validation, with over 140 publications and seven books. She has received multiple honors, including the ACM/IEEE DAC Under 40 Innovators Award (2024), UF Best Assistant Professor Award (2024), SRC Young Faculty Award (2022), and the NSF CAREER Award.</p>
+    </div>
+  </div>
+
+  <!-- Speaker: Dr. Imtiaz Karim -->
   <div class="team-member" style="display: flex; align-items: flex-start; gap: 1rem;">
     <img
       src="{{ '/assets/img/speakers/imtiaz.jpg' | relative_url }}"
