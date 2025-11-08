@@ -42,7 +42,8 @@ nav_title: "Schedule"
     </tr>
     <tr><td style="border: 1px solid #ddd; padding: 8px;">12:00 PM – 01:30 PM</td><td style="border: 1px solid #ddd; padding: 8px;">Lunch Break</td></tr>
     <tr><td style="border: 1px solid #ddd; padding: 8px;">01:30 PM – 02:00 PM</td><td style="border: 1px solid #ddd; padding: 8px;">Invited Talk: Dr. Imtiaz Karim, Assistant Professor, University of Texas at Dallas</td></tr>
-    <tr><td style="border: 1px solid #ddd; padding: 8px;">02:15 PM – 02:45 PM</td><td style="border: 1px solid #ddd; padding: 8px;">Invited Talk: Dr. Saikat Chakraborty, Microsoft Research</td></tr>
+    <tr><td style="border: 1px solid #ddd; padding: 8px;">02:00 PM – 02:30 PM</td><td style="border: 1px solid #ddd; padding: 8px;">Invited Talk: Dr. Farimah Farahmandi, Assistant Professor, University of Florida</td></tr>
+    <tr><td style="border: 1px solid #ddd; padding: 8px;">02:30 PM – 03:00 PM</td><td style="border: 1px solid #ddd; padding: 8px;">Invited Talk: Dr. Saikat Chakraborty, Microsoft Research</td></tr>
     <tr><td style="border: 1px solid #ddd; padding: 8px;">03:00 PM – 03:30 PM</td><td style="border: 1px solid #ddd; padding: 8px;">Invited Talk: Dr. Sayem Mohammad Imtiaz, Meta</td></tr>
     <tr><td style="border: 1px solid #ddd; padding: 8px;">03:30 PM – 03:45 PM</td><td style="border: 1px solid #ddd; padding: 8px;">Break</td></tr>
     <tr><td style="border: 1px solid #ddd; padding: 8px;">03:45 PM – 04:45 PM</td><td style="border: 1px solid #ddd; padding: 8px;">Paper Session 2</td></tr>
