@@ -14,7 +14,7 @@ nav_title: "Schedule"
 <table style="width:100%; border-collapse: collapse; border: 1px solid #ddd;">
   <thead style="background-color: #f9f9f9;">
     <tr>
-      <th style="border: 1px solid #ddd; padding: 8px; width: 20%;">Time</th>
+      <th style="border: 1px solid #ddd; padding: 8px; width: 20%;">Time (Eastern Time)</th>
       <th style="border: 1px solid #ddd; padding: 8px;">Session</th>
     </tr>
   </thead>
