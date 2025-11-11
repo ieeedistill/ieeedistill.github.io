@@ -7,7 +7,7 @@ nav_order: 6
 nav_title: "Schedule"
 ---
 
-<h1>IEEE DISTILL 2025 Workshop Schedule</h1>
+<h1>Workshop Schedule</h1>
 
 <p><strong>Date:</strong> November 11, 2025</p>
 
